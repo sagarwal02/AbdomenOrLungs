@@ -8,6 +8,6 @@ After running about 50 epochs I have gotten 100% accuracy. Email me at: dev.shob
 STEPS TO DUPLICATE:
 (FOR LINUX)
 
-1. Run the program with python3: python3 main.py
 2. Install any missing dependencies with: pip3 install
-3. Run the program and let the program predict whether the image is an abdomen xray or chest xray!
+2. Run the program with python3: python3 main.py
+3. Feast your eyes on a beautifully written AI!
